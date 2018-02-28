@@ -14,12 +14,14 @@ border color: #dddddd;
 
 .sidebar {
 width: 270px;
-float: right;
+float: left;
+indent: 200px;
 }
 
 .navbar {
 background color: #ffffff;
 border color: #cccccc;
+height: 10%;
 }
 
 .panel-footer {
@@ -76,4 +78,9 @@ color: #4aaaa5;
 h3 {
   font-family: 'Georgia', Times, Times New Roman, serif;
   color: #4aaaa5;
+}
+
+.placeholder-images-port {
+ width: 250px;
+ height: 250px;
 }
