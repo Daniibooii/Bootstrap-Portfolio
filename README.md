@@ -1,14 +1,16 @@
 # Bootstrap-Portfolio
 
 # Project Description
-This was an early attempt to develop a personal web page for employers to utilize. This was the second version produced, and far superior to the first. This one utilized Bootstrap, which made creating a grid much easier. Still, the ultimate result is not ideal. More time will likely be devoted to this project at a later date.
+This project is my ongoing work on a personal portfolio, which I will host and hopefully use to attain employment.<br>
+This was the second version produced, and far superior to the first.<br>
+This one utilizes Bootstrap and Materialize, which made creating a grid easier and allowed the carousel feature, respectively.<br>
 
 # How to Use
 Access the hosted version here: https://daniibooii.github.io/Bootstrap-Portfolio/<br>
 Or, just open up index.html with your preferred browser!<br>
 
 # Notes
-<br>
+Still a bit to go!<br>
 
 # Remaining Work
 More CSS editing and general playing around with the design are needed;<br>
