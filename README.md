@@ -11,5 +11,5 @@ Or, just open up index.html with your preferred browser!<br>
 <br>
 
 # Remaining Work
-More CSS editing and general playing around wtih the design are needed;<br>
+More CSS editing and general playing around with the design are needed;<br>
 further study of bootstrap pre-built features should improve many of the troublesome elements.<br>

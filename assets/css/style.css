@@ -11,7 +11,6 @@ background color: #ffffff;
 border color: #dddddd;
 }
 
-
 .sidebar {
 width: 270px;
 float: left;
@@ -61,7 +60,7 @@ width: 50px;
   float: left;
 }
 
-h1 {
+.block-header {
   font-family: 'Georgia', Times, Times New Roman, serif;
   background-color: #4aaaa5;
   color: white;
@@ -78,12 +77,21 @@ color: #4aaaa5;
 h3 {
   font-family: 'Georgia', Times, Times New Roman, serif;
   color: #4aaaa5;
+  float: left;
 }
 
 .placeholder-images-port {
  width: 250px;
  height: 250px;
 }
+
+
+
+
+
+
+
+
 
 // template below //
 /* --- STYLES FOR ALL PAGES --- */
