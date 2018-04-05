@@ -13,5 +13,5 @@ Or, just open up index.html with your preferred browser!<br>
 Still a bit to go!<br>
 
 # Remaining Work
-More CSS editing and general playing around with the design are needed;<br>
-further study of bootstrap pre-built features should improve many of the troublesome elements.<br>
+I hope to personalize the look and feel of my portfolio further.<br>
+Soon, I intend to make it a one-page app, using React.js.<br>
