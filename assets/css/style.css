@@ -15,6 +15,9 @@ html {
 main {
   margin: 80px 0;
 }
+strong {
+  color: #ee6e73;
+}
 /* create styles for use for all white main boxes */
 .block {
   background-color: #fff;
@@ -39,7 +42,8 @@ main {
 }
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #4aaaa5;
+/*color: #4aaaa5;*/
+  color: #ee6e73;
 }
 .navbar {
   border: none;
@@ -67,9 +71,17 @@ main {
   /* Typography */
   text-align: center;
 }
+.icon:hover {
+  opacity: .7;
+}
 .icon2 {
-  height: 115px;
-  width: 115px;
+  height: 120px;
+  width: 117px;
+  padding-top: 10px;
+  margin: 0px;
+}
+.icon2:hover {
+  opacity: .7;
 }
 /* END CONNECT W/ ME */
 /* BEGIN FOOTER */
@@ -124,6 +136,9 @@ h2 {
   /* Box-model */
   width: 200px;
   margin: 0 20px 10px 0;
+}
+#about-image:hover {
+  opacity: .7;
 }
 /* END ABOUT-ME PAGE */
 /* PORTFOLIO PAGE */
