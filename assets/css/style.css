@@ -45,7 +45,7 @@ strong {
 /*color: #4aaaa5;*/
   color: #ee6e73;
   font-size: 18px;
-  font-style: bold;
+  font-weight: bold;
 }
 .navbar {
   border: none;
@@ -55,6 +55,24 @@ strong {
   .navbar-header {
     background-color: #4aaaa5;
   }
+}
+#first-page {
+  color: #fff;
+  background: #4aaaa5;
+  font-size: 20px;
+  font-weight: bold;
+}
+#second-page {
+  color: #fff;
+  background: #4aaaa5;
+  font-size: 20px;
+  font-weight: bold;
+}
+#third-page {
+  color: #fff;
+  background: #4aaaa5;
+  font-size: 20px;
+  font-weight: bold;
 }
 /* END NAV */
 /* CONNECT W/ ME CSS */
@@ -148,6 +166,9 @@ h2 {
   margin: 20px auto;
   height: 275px;
   width: 350px;
+}
+.port-image:hover {
+  opacity: .9;
 }
 /* END PORTFOLIO PAGE */
 /* CONTACT FORM PAGE  */
