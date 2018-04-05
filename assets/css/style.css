@@ -44,6 +44,8 @@ strong {
 .navbar-default .navbar-nav > li > a:hover {
 /*color: #4aaaa5;*/
   color: #ee6e73;
+  font-size: 18px;
+  font-style: bold;
 }
 .navbar {
   border: none;
