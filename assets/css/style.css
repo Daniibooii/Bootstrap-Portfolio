@@ -78,6 +78,7 @@ strong {
 /* CONNECT W/ ME CSS */
 .connect-header {
   /* Typography */
+  text-align: center;
   font-size: 25px;
 }
 .connect-photo {
