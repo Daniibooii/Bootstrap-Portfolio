@@ -95,6 +95,12 @@ strong {
 .icon:hover {
   opacity: .7;
 }
+.icon1 {
+  height: 128px;
+  width: 128px;
+  padding-top: 10px;
+  margin: 0px;
+}
 .icon2 {
   height: 128px;
   width: 128px;
