@@ -104,8 +104,23 @@ strong {
 .icon2:hover {
   opacity: .7;
 }
+.icon2 {
+  height: 128px;
+  width: 128px;
+  padding-top: 10px;
+  margin: 0px;
+}
+.icon3 {
+  height: 200px;
+  width: 265px;
+  padding-top: 10px;
+  margin: 0px;
+}
 /* END CONNECT W/ ME */
 /* BEGIN FOOTER */
+#email-address-image {
+  z-index: -1;
+}
 .footer {
   /* Positioning */
   position: absolute;
@@ -168,14 +183,26 @@ h4 {
   font-weight: bold;
   text-align: center;
 }
-#about-image {
+#about-image1 {
   /* Positioning */
   float: left;
   /* Box-model */
   width: 200px;
   margin: 0 20px 10px 0;
+  z-index: 1;
 }
-#about-image:hover {
+#about-image1:hover {
+  opacity: .7;
+}
+#about-image2 {
+  /* Positioning */
+  float: left;
+  /* Box-model */
+  width: 200px;
+  margin: 0 20px 10px 0;
+  z-index: -1;
+}
+#about-image2:hover {
   opacity: .7;
 }
 /* END ABOUT-ME PAGE */

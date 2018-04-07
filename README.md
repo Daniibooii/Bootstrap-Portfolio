@@ -10,3 +10,4 @@ Or, just open up index.html with your preferred browser!<br>
 
 # Notes
 The next step: converting to React.js!<br>
+That may become its own project, with a separate repo.<br>
