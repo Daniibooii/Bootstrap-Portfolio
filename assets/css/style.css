@@ -144,12 +144,13 @@ strong {
 }
 h2 {
   /* Positioning */
-  margin-bottom: 17px;
+  margin-bottom: 15px;
   font-family: Georgia, Times, "Times New Roman", serif;
   /* Typography */
   font-size: 24px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #ee6e73;
+  text-align: center;
 }
 h3 {
   margin-bottom: 10px;
@@ -157,7 +158,7 @@ h3 {
   /* Typography */
   font-size: 20px;
   font-weight: bold;
-  color: #ee6e73;
+  /*color: #ee6e73;*/
   text-align: center;
 }
 h4 {
