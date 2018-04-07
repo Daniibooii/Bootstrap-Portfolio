@@ -196,7 +196,6 @@ h4 {
   /* Box-model */
   width: 200px;
   margin: 0 20px 10px 0;
-  z-index: 1;
 }
 #about-image1:hover {
   opacity: .7;
@@ -207,7 +206,6 @@ h4 {
   /* Box-model */
   width: 200px;
   margin: 0 20px 10px 0;
-  z-index: -1;
 }
 #about-image2:hover {
   opacity: .7;
