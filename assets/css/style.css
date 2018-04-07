@@ -163,10 +163,7 @@ strong {
   font-weight: bold;
   color: #4aaaa5;
 }
-/*#first-about-paragraph {
-  float: top;
-  this section added in attempt to fix floating "full stack web" issue with some mobiles
-}*/
+
 h2 {
   /* Positioning */
   margin-bottom: 24px;
