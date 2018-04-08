@@ -50,6 +50,9 @@ strong {
 .navbar {
   border: none;
 }
+/*span.icon-bar {
+  background-color: #ee6e73;
+}*/
 /* media query for nav background color change */
 @media only screen and (max-width: 767px) {
   .navbar-header {
