@@ -173,13 +173,12 @@ strong {
   font-weight: bold;
   color: #4aaaa5;
 }
-
 h2 {
   /* Positioning */
-  margin-bottom: 24px;
+  margin-bottom: 15px;
   font-family: Georgia, Times, "Times New Roman", serif;
   /* Typography */
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
   color: #4aaaa5;
 }
