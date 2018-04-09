@@ -50,6 +50,10 @@ strong {
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #fff;
 }
+.navbar-default .navbar-toggle {
+  border-color: #fff;
+  border-width: 1.5px;
+}
 .navbar {
   border: none;
 }
