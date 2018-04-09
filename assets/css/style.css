@@ -47,6 +47,9 @@ strong {
   font-size: 18px;
   font-weight: bold;
 }
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
 .navbar {
   border: none;
 }
