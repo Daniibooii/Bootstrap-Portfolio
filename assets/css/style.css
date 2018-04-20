@@ -104,6 +104,8 @@ strong {
 }
 .icon:hover {
   opacity: .7;
+  height: 138px;
+  width: 138px;
 }
 .icon1 {
   height: 128px;
@@ -119,6 +121,8 @@ strong {
 }
 .icon2:hover {
   opacity: .7;
+  height: 138px;
+  width: 138px;
 }
 .icon2 {
   height: 128px;
@@ -258,5 +262,6 @@ color: #ee6e73;
 #README-btn {
   color: #4aaaa5;
   font-weight: bold;
+  text-align: center;
 }
 /* END CONTACT FORM PAGE */
