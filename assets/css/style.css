@@ -237,6 +237,10 @@ color: #ee6e73;
 .port-image:hover {
   opacity: .9;
 }
+.img-project-description {
+  z-index: -99;
+  float: center;
+}
 /* END PORTFOLIO PAGE */
 /* CONTACT FORM PAGE  */
 .form-control {
