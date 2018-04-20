@@ -199,6 +199,9 @@ h4 {
   font-weight: bold;
   text-align: center;
 }
+h5 {
+color: #ee6e73;
+}
 #about-image1 {
   /* Positioning */
   float: left;
@@ -251,5 +254,9 @@ h4 {
 }
 .submit-btn:hover {
   opacity: .7;
+}
+#README-btn {
+  color: #4aaaa5;
+  font-weight: bold;
 }
 /* END CONTACT FORM PAGE */
