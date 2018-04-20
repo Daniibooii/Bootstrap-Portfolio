@@ -215,6 +215,7 @@ color: #ee6e73;
 }
 #about-image1:hover {
   opacity: .7;
+  width: 210px;
 }
 #about-image2 {
   /* Positioning */
