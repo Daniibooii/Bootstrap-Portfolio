@@ -1,6 +1,6 @@
 # Portfolio
 
-<img src="https://github.com/Daniibooii/Portfolio/blob/master/assets/images/PortfolioPHImage.png" height=350px width=380px><br>
+<img src="https://github.com/Daniibooii/Portfolio/blob/master/assets/images/PortfolioPHImage.png" height=350px width=450px><br>
 
 # Project Description
 This project is my personal portfolio, which I update each time I learn a new skill.<br>
